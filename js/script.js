@@ -1,0 +1,496 @@
+$(function(){
+  $("#div000hover").hide();
+  $(".text").hide();
+  $('#cross0').hide();
+  $("#i0").click(function(){
+    $("#div000hover").show();
+    $(".text").show();
+    $('#cross0').show();
+  });
+  $('#div000hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross0").click(function(){
+    $("#div000hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div001hover").hide();
+  $(".text").hide();
+  $('#cross1').hide();
+  $("#i1").click(function(){
+    $("#div001hover").show();
+    $(".text").show();
+    $('#cross1').show();
+  });
+  $('#div001hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross1").click(function(){
+    $("#div001hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div002hover").hide();
+  $(".text").hide();
+  $('#cross2').hide();
+  $("#i2").click(function(){
+    $("#div002hover").show();
+    $(".text").show();
+    $('#cross2').show();
+  });
+  $('#div002hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross2").click(function(){
+    $("#div002hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div003hover").hide();
+  $(".text").hide();
+  $('#cross3').hide();
+  $("#i3").click(function(){
+    $("#div003hover").show();
+    $(".text").show();
+    $('#cross3').show();
+  });
+  $('#div003hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross3").click(function(){
+    $("#div003hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div004hover").hide();
+  $(".text").hide();
+  $('#cross4').hide();
+  $("#i4").click(function(){
+    $("#div004hover").show();
+    $(".text").show();
+    $('#cross4').show();
+  });
+  $('#div004hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross4").click(function(){
+    $("#div004hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div011hover").hide();
+  $(".text").hide();
+  $('#cross11').hide();
+  $("#i11").click(function(){
+    $("#div011hover").show();
+    $(".text").show();
+    $('#cross11').show();
+  });
+  $('#div011hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross11").click(function(){
+    $("#div011hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div012hover").hide();
+  $(".text").hide();
+  $('#cross12').hide();
+  $("#i12").click(function(){
+    $("#div012hover").show();
+    $(".text").show();
+    $('#cross12').show();
+  });
+  $('#div012hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross12").click(function(){
+    $("#div012hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div013hover").hide();
+  $(".text").hide();
+  $('#cross13').hide();
+  $("#i13").click(function(){
+    $("#div013hover").show();
+    $(".text").show();
+    $('#cross13').show();
+  });
+  $('#div013hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross13").click(function(){
+    $("#div013hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div014hover").hide();
+  $(".text").hide();
+  $('#cross14').hide();
+  $("#i14").click(function(){
+    $("#div014hover").show();
+    $(".text").show();
+    $('#cross14').show();
+  });
+  $('#div014hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross14").click(function(){
+    $("#div014hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div015hover").hide();
+  $(".text").hide();
+  $('#cross15').hide();
+  $("#i15").click(function(){
+    $("#div015hover").show();
+    $(".text").show();
+    $('#cross15').show();
+  });
+  $('#div015hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross15").click(function(){
+    $("#div015hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div016hover").hide();
+  $(".text").hide();
+  $('#cross16').hide();
+  $("#i16").click(function(){
+    $("#div016hover").show();
+    $(".text").show();
+    $('#cross16').show();
+  });
+  $('#div016hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross16").click(function(){
+    $("#div016hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div017hover").hide();
+  $(".text").hide();
+  $('#cross17').hide();
+  $("#i17").click(function(){
+    $("#div017hover").show();
+    $(".text").show();
+    $('#cross17').show();
+  });
+  $('#div017hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross17").click(function(){
+    $("#div017hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div018hover").hide();
+  $(".text").hide();
+  $('#cross18').hide();
+  $("#i18").click(function(){
+    $("#div018hover").show();
+    $(".text").show();
+    $('#cross18').show();
+  });
+  $('#div018hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross18").click(function(){
+    $("#div018hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div019hover").hide();
+  $(".text").hide();
+  $('#cross19').hide();
+  $("#i19").click(function(){
+    $("#div019hover").show();
+    $(".text").show();
+    $('#cross19').show();
+  });
+  $('#div019hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross19").click(function(){
+    $("#div019hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div020hover").hide();
+  $(".text").hide();
+  $('#cross20').hide();
+  $("#i20").click(function(){
+    $("#div020hover").show();
+    $(".text").show();
+    $('#cross20').show();
+  });
+  $('#div020hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross20").click(function(){
+    $("#div020hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div021hover").hide();
+  $(".text").hide();
+  $('#cross21').hide();
+  $("#i21").click(function(){
+    $("#div021hover").show();
+    $(".text").show();
+    $('#cross21').show();
+  });
+  $('#div021hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross21").click(function(){
+    $("#div021hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div022hover").hide();
+  $(".text").hide();
+  $('#cross22').hide();
+  $("#i22").click(function(){
+    $("#div022hover").show();
+    $(".text").show();
+    $('#cross22').show();
+  });
+  $('#div022hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross22").click(function(){
+    $("#div022hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div023hover").hide();
+  $(".text").hide();
+  $('#cross23').hide();
+  $("#i23").click(function(){
+    $("#div023hover").show();
+    $(".text").show();
+    $('#cross23').show();
+  });
+  $('#div023hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross23").click(function(){
+    $("#div023hover").hide();
+    $(this).hide();
+  });
+});
+
+$(function(){
+  $("#div024hover").hide();
+  $(".text").hide();
+  $('#cross24').hide();
+  $("#i24").click(function(){
+    $("#div024hover").show();
+    $(".text").show();
+    $('#cross24').show();
+  });
+  $('#div024hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross24").click(function(){
+    $("#div024hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div025hover").hide();
+  $(".text").hide();
+  $('#cross25').hide();
+  $("#i25").click(function(){
+    $("#div025hover").show();
+    $(".text").show();
+    $('#cross25').show();
+  });
+  $('#div025hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross25").click(function(){
+    $("#div025hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div026hover").hide();
+  $(".text").hide();
+  $('#cross26').hide();
+  $("#i26").click(function(){
+    $("#div026hover").show();
+    $(".text").show();
+    $('#cross26').show();
+  });
+  $('#div026hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross26").click(function(){
+    $("#div026hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div027hover").hide();
+  $(".text").hide();
+  $('#cross27').hide();
+  $("#i27").click(function(){
+    $("#div027hover").show();
+    $(".text").show();
+    $('#cross27').show();
+  });
+  $('#div027hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross27").click(function(){
+    $("#div027hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div029hover").hide();
+  $(".text").hide();
+  $('#cross29').hide();
+  $("#i29").click(function(){
+    $("#div029hover").show();
+    $(".text").show();
+    $('#cross29').show();
+  });
+  $('#div029hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross29").click(function(){
+    $("#div029hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div029_2hover").hide();
+  $(".text").hide();
+  $('#cross29_2').hide();
+  $("#i29_2").click(function(){
+    $("#div029_2hover").show();
+    $(".text").show();
+    $('#cross29_2').show();
+  });
+  $('#div029_2hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross29_2").click(function(){
+    $("#div029_2hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div030hover").hide();
+  $(".text").hide();
+  $('#cross30').hide();
+  $("#i30").click(function(){
+    $("#div030hover").show();
+    $(".text").show();
+    $('#cross30').show();
+  });
+  $('#div030hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross30").click(function(){
+    $("#div030hover").hide();
+    $(this).hide();
+  });
+});
+$(function(){
+  $("#div030_2hover").hide();
+  $(".text").hide();
+  $('#cross30_2').hide();
+  $("#i30_2").click(function(){
+    $("#div030_2hover").show();
+    $(".text").show();
+    $('#cross30_2').show();
+  });
+  $('#div030_2hover').dblclick(function(){
+    window.open('');
+  });
+});
+$(function(){
+  $("#cross30_2").click(function(){
+    $("#div030_2hover").hide();
+    $(this).hide();
+  });
+});
+// ©Copyright Christopher Dachicourt & Gregory Mathieux
