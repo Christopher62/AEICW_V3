@@ -8,7 +8,8 @@ $(function(){
     $('#cross0').show();
   });
   $('#div000hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -27,7 +28,8 @@ $(function(){
     $('#cross1').show();
   });
   $('#div001hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -46,7 +48,8 @@ $(function(){
     $('#cross2').show();
   });
   $('#div002hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -65,7 +68,8 @@ $(function(){
     $('#cross3').show();
   });
   $('#div003hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -84,7 +88,8 @@ $(function(){
     $('#cross4').show();
   });
   $('#div004hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -103,7 +108,8 @@ $(function(){
     $('#cross11').show();
   });
   $('#div011hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -122,7 +128,8 @@ $(function(){
     $('#cross12').show();
   });
   $('#div012hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -141,7 +148,8 @@ $(function(){
     $('#cross13').show();
   });
   $('#div013hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -160,7 +168,8 @@ $(function(){
     $('#cross14').show();
   });
   $('#div014hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -179,7 +188,8 @@ $(function(){
     $('#cross15').show();
   });
   $('#div015hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -198,7 +208,8 @@ $(function(){
     $('#cross16').show();
   });
   $('#div016hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -217,7 +228,8 @@ $(function(){
     $('#cross17').show();
   });
   $('#div017hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -236,7 +248,8 @@ $(function(){
     $('#cross18').show();
   });
   $('#div018hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -255,7 +268,8 @@ $(function(){
     $('#cross19').show();
   });
   $('#div019hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -274,7 +288,8 @@ $(function(){
     $('#cross20').show();
   });
   $('#div020hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -293,7 +308,8 @@ $(function(){
     $('#cross21').show();
   });
   $('#div021hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -312,7 +328,8 @@ $(function(){
     $('#cross22').show();
   });
   $('#div022hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -331,7 +348,8 @@ $(function(){
     $('#cross23').show();
   });
   $('#div023hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -351,7 +369,8 @@ $(function(){
     $('#cross24').show();
   });
   $('#div024hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -370,7 +389,8 @@ $(function(){
     $('#cross25').show();
   });
   $('#div025hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -389,7 +409,8 @@ $(function(){
     $('#cross26').show();
   });
   $('#div026hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -408,7 +429,8 @@ $(function(){
     $('#cross27').show();
   });
   $('#div027hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -427,7 +449,8 @@ $(function(){
     $('#cross29').show();
   });
   $('#div029hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -446,7 +469,8 @@ $(function(){
     $('#cross29_2').show();
   });
   $('#div029_2hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -465,7 +489,8 @@ $(function(){
     $('#cross30').show();
   });
   $('#div030hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
@@ -484,7 +509,8 @@ $(function(){
     $('#cross30_2').show();
   });
   $('#div030_2hover').dblclick(function(){
-    window.open('');
+    window.open('http://eglise.dsu-crab.fr/');
+    $(this).hide();
   });
 });
 $(function(){
